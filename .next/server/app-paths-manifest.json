@@ -1,4 +1,9 @@
 {
+  "/_not-found": "app/_not-found.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/job/alljobs/page": "app/job/alljobs/page.js",
   "/job/jobdetails/[id]/page": "app/job/jobdetails/[id]/page.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+  "/page": "app/page.js",
+  "/sign-up/page": "app/sign-up/page.js"
 }

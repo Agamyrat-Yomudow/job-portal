@@ -1,4 +1,4 @@
-// File: C:\Users\Agamyrat\Desktop\jobPortal\jobportalstarter\app\api\auth\[...nextauth]\route.ts
+// File: C:\Users\Agamyrat\Desktop\jobPortal\Job Portal Project\app\api\auth\[...nextauth]\route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

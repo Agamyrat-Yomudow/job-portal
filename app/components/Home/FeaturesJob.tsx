@@ -10,7 +10,7 @@ const FeaturesJob = () => {
       <Heading mainHeading='Featured Job' subHeading='Know your worth and find the job that qualify your life'/>
       <div className='w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2  gap-10 mt-10'>
         {JobData.map((job)=>(
-            <Link href={`/job/jobdetails/${job.id}`}>
+            <Link key={job.id} href={`/job/jobdetails/${job.id}`}>
             <JobCard job={job}/>
             </Link>
         ))}

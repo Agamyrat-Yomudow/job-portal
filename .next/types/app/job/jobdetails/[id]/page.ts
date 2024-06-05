@@ -1,4 +1,4 @@
-// File: C:\Users\Agamyrat\Desktop\jobPortal\jobportalstarter\app\job\jobdetails\[id]\page.tsx
+// File: C:\Users\Agamyrat\Desktop\jobPortal\Job Portal Project\app\job\jobdetails\[id]\page.tsx
 import * as entry from '../../../../../../app/job/jobdetails/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

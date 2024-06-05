@@ -1,4 +1,4 @@
-// File: C:\Users\Agamyrat\Desktop\jobPortal\jobportalstarter\app\layout.tsx
+// File: C:\Users\Agamyrat\Desktop\jobPortal\Job Portal Project\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
